@@ -1,6 +1,6 @@
-small_orange_diamond Visão geral: Java Collections Framework e hierarquia
+Visão geral: Java Collections Framework e hierarquia
 
-small_orange_diamond List
+List
 Coleção com iterações ordenadas: List
 Conhecendo os métodos
 Ordenação da coleção List
