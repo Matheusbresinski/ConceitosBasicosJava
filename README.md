@@ -1,18 +1,15 @@
 <h1>Java</h1>
 
 <h2>Estruturas condicionais:</h2>
-	   🔸 if-else<br>
-	   🔸 switch-case <br>
-	    
+	   🔸 <a href="https://github.com/Matheusbresinski/ConceitosBasicosJava/tree/main/ConceitoBasicoJava/src/EstruturaDeRepeticao">if-else</a> <br>
+	   🔸 <a href="https://github.com/Matheusbresinski/ConceitosBasicosJava/tree/main/ConceitoBasicoJava/src/EstruturaDeRepeticao">switch-case</a> <br>	    
 <h2>Estruturas de repetição:</h2>
-	   🔸 for <br>
-	   🔸 while <br>
-	   🔸 do-while <br>
+	   🔸 <a href="https://github.com/Matheusbresinski/ConceitosBasicosJava/tree/main/ConceitoBasicoJava/src/EstruturaDeRepeticao">for</a> <br>
+	   🔸 <a href="https://github.com/Matheusbresinski/ConceitosBasicosJava/tree/main/ConceitoBasicoJava/src/EstruturaDeRepeticao">while</a> <br> 	       		🔸 <a href="https://github.com/Matheusbresinski/ConceitosBasicosJava/tree/main/ConceitoBasicoJava/src/EstruturaDeRepeticao">do-while</a> <br>  
 	    
-<h2> Estruturas de exceções:</h2> 
-	   🔸 try-catch-finally<br> 
-	   🔸 throw <br>
-
+<h2> Estruturas de exceções:</h2>
+  	   🔸 <a href="https://github.com/Matheusbresinski/ConceitosBasicosJava/tree/main/ConceitoBasicoJava/src//EstruturaExcepcionais">try-catch-finally</a> <br>  
+  	   🔸 <a href="https://github.com/Matheusbresinski/ConceitosBasicosJava/tree/main/ConceitoBasicoJava/src//EstruturaExcepcionais">throw</a> <br> 
 
 
 <h1>
@@ -20,8 +17,7 @@ Introdução em Collections Java
 </h1>
 
 <strong> Visão geral:  Java Collections Framework e hierarquia </strong>
-
-<h2> List </h2>
+<h2><a href="https://github.com/Matheusbresinski/ConceitosBasicosJava/tree/main/ConceitoBasicoJava/src//Listas">List</a></h2>
 	 🔸 Coleção com iterações ordenadas: List<br>
 	 🔸 Conhecendo os métodos<br>
 	 🔸 Ordenação da coleção List<br>
