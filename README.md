@@ -2,18 +2,6 @@
 Introdução em Collections Java
 </h1>
 
-<h2>
-🛑 Pré-requistos
-</h2>
-
-- [x] Java JDK 11
-- [x] IDE IntelliJ
-- [x] Conhecer a sintaxe Java
-- [x] Noção acerca do Paradigma de Programação Orientada a Objeto
-- [x] Disposição para estudar 
-
-<h2> 📚 Ementa</h2>
-
 🔸 <strong> Visão geral:  Java Collections Framework e hierarquia </strong>
 
 🔸 <strong> List </strong><br>
